@@ -1,5 +1,6 @@
 val version = "0.1.1"
 val appArchiveName = "KComV-$version"
+group = "ru.siksmfp.KcomV"
 
 plugins {
     application
