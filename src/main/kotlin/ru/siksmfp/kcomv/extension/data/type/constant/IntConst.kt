@@ -1,4 +1,4 @@
-package ru.siksmfp.kcomv.extension.data.type
+package ru.siksmfp.kcomv.extension.data.type.constant
 
 val Int.Companion.ZERO: Int
     get() = 0

@@ -1,4 +1,4 @@
-package ru.siksmfp.kcomv.extension.data.type
+package ru.siksmfp.kcomv.extension.data.type.constant
 
 val Long.Companion.ZERO: Long
     get() = 0

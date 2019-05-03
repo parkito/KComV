@@ -1,6 +1,8 @@
-val version = "0.1.1"
-val appArchiveName = "KComV-$version"
+
 group = "ru.siksmfp.KcomV"
+version = "0.1.1"
+
+val appArchiveName = "KComV-$version"
 
 plugins {
     application
@@ -13,6 +15,7 @@ application {
 
 dependencies {
     compile(kotlin("stdlib"))
+    implementation("ch.qos.logback:logback-classic:1.2.3")
 }
 
 repositories {

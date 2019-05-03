@@ -1,4 +1,4 @@
-package ru.siksmfp.kcomv.extension.data.type
+package ru.siksmfp.kcomv.extension.data.type.constant
 
 val Double.Companion.ZERO: Double
     get() = 0.0
